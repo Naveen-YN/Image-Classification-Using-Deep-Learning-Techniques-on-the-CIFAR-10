@@ -26,7 +26,7 @@ This repository contains a Python application for classifying images using a pre
 
 2. Run the application:
     ```bash
-    python app.py
+    python main.py
     ```
 
 3. Use the GUI to select an image and classify it.
