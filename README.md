@@ -31,15 +31,7 @@ This repository contains a Python application for classifying images using a pre
 
 3. Use the GUI to select an image and classify it.
 
-## Dataset
-
-The dataset used for training the model can be downloaded from [Kaggle](https://kaggle.com/datasets/c5eba7bed24ecf791e66c0de929b63fe8ae1af7758847b357ee06b06f873de8c).
-
-## Pre-trained Models (required)
-
-The pre-trained model used for this application can be downloaded from [this link](https://drive.google.com/uc?id=your_pretrained_model_link).
-
-## Model Training (optional)
+## Model Training (Required)
 
 Training the model is optional. The application comes with a pre-trained model, but if you wish to train the model yourself, follow these steps:
 
